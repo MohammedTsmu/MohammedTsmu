@@ -1,5 +1,19 @@
-# 💫 About Me:
-I'm currently working on myself and other people benefit<br>I'm looking to collaborate on several projects i built<br>l'm looking for help with future projects<br>I'm currently learning<br>Ask me about
+# 💫 About Me
+
+Hi, I'm **Mohammed** — a passionate self-taught developer with a professional background in **pharmacy**.  
+I'm on a mission to combine technology and well-being through apps that solve real, personal problems.
+
+- 💻 Currently building useful desktop apps that boost focus, health, and productivity
+- 🚀 Always improving myself — and sharing the tools I build with the world
+- 🤝 Open to **collaborations** and **feedback** on any of my public projects
+- 🧠 Actively learning and exploring **C#**, **DevExpress**, **Python**,**Web Development** and front-end technologies
+- 💬 Ask me about anything related to:  
+  `Desktop App Dev`, `DevExpress`, `Productivity Tools`, `C# Projects`, or even `Pharmacy + Tech fusion`
+
+> If any of my tools helped you, let me know or give them a ⭐  
+> Let’s build meaningful things together!
+
+
 
 
 # 💻 Tech Stack:
